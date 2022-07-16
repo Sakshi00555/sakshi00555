@@ -48,7 +48,7 @@
 &nbsp;&nbsp;<a href="https://awesome-golick-6ddd51.netlify.app/" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 <h3>&nbsp;Connect with Me </h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/sakshi-kumari-202282214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sakshi%20kumari-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:skrana00555@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-sakshi%20kumari-blue?style=flat-square&logo=gmail"></a>
 </p>
