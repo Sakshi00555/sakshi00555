@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Learning Web Development at masai school
 - 💼 &nbsp; Aspire to work as a MERN Stack developer.
 
-- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and &nbsp; &nbsp; &nbsp; experience.   Happy to Contribute in Opne source Projects<br>
+- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; experience.   Happy to Contribute in Opne source Projects<br>
 - 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; happy to tell,if I am unable then surely we will together towards learning new things.
 <br/>
 - ⚡ Fun fact: Passion for coding, Wander
