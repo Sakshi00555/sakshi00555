@@ -1,34 +1,59 @@
-### Hi there 👋
+ <h2> Hey there! 👋 I'm Sakshi Kumari.</h2>
+ <br/>
+ 
+ <div><img align="right" heigth="300px" width="300px" alt="Github" src="https://i0.wp.com/fribly.com/wp-content/uploads/2016/03/Pure-CSS-Day-and-Night-Toggle.gif?fit=820%2C820&ssl=1" /></div>
 
-I'm Sakshi Kumari and A passionate full-stack web developer with a proficiency in Full stack. An enthusiastic team player with an experience in building dynamic and user-centric products. Looking for a role as a developer to implement technical skills and work on innovative projects.
+<h3> &nbsp;About Me </h3>  
 
-- 👨‍💻 Wanna take a look at my portfolio https://sakshi-kumari-portfolio.vercel.app/
-- 📫 Mail me at skrana00555@gmail.com
+- 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
+- 🎓 &nbsp; Learning Web Development at masai school
+- 💼 &nbsp; Aspire to work as a MERN Stack developer.
 
+- 👯‍♂️ &nbsp;&nbsp;Looking for Contributing to MERN stack projects with lots of learning and experience. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Happy to Contribute in Opne source Projects<br>
+- 💬 &nbsp;&nbsp;Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am unable then surely we will together towards learning new things.
+<br/>
+- ⚡ Fun fact: Passion for coding, Wander
 
-### Connect with me
-<a href="https://www.linkedin.com/in/sakshi-kumari-202282214/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="30px"/></a>
-&nbsp;&nbsp;
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=ExpressJS)
+<!--   ![Redux](https://img.shields.io/badge/-Redux-236799?style=flat&logo=redux) -->
 
-### Languages
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-###  Tools , Libraries and Frameworks 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  &nbsp;&nbsp;
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;&nbsp;
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
+<br/>
+ <div>
+<h3>⚙️ GitHub Analytics</h3>
+<a href="https://github.com/jaskaranpr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi00555&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi00555&theme=buefy&layout=compact" />
+</a>
+ </div>
+<br/>
+<h3>&nbsp;Visit my portfolio </h3>
+&nbsp;&nbsp;<a href="https://awesome-golick-6ddd51.netlify.app/" target="blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
-### Github Stats and achievements
+<h3>&nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/sakshi-kumari-202282214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sakshi%20kumari-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:skrana00555@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-sakshi%20kumari-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sakshi00555)
+#### &nbsp;&nbsp; Thank you for visiting my profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi00555&layout=compact)
+⭐️ From [Sakshi kumari](https://github.com/sakshi00555)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi00555)
