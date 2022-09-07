@@ -42,6 +42,11 @@
 <a href="https://www.linkedin.com/in/sakshi-kumari-202282214/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sakshi%20kumari-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:skrana00555@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-sakshi%20kumari-blue?style=flat-square&logo=gmail"></a>
 </p>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=iScreenager">
+</a>
+<a href="https://github.com/iScreenager?tab=followers"><img src="https://img.shields.io/github/followers/iScreenager?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 
