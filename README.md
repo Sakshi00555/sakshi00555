@@ -45,9 +45,10 @@
 ❤ Views and Followers
 <br>
 <a href="https://github.com/sakshi00555/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=iScreenager">
+    <img src="https://komarev.com/ghpvc/?username=sakshi00555">
 </a>
-<a href="https://github.com/iScreenager?tab=followers"><img src="https://img.shields.io/github/followers/iScreenager?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sakshi00555?tab=followers"><img src="https://img.shields.io/github/followers/sakshi00555
+?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 
