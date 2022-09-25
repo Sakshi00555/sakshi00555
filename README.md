@@ -30,6 +30,10 @@
 <!--   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logocolor=&logo=atom) -->
 <br/>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=sakshi00555&theme=xcode">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sakshi00555&theme=monokai&row=1&column=4">
+
 
  <div>
 <h3>⚙️ GitHub Analytics</h3>
