@@ -44,7 +44,7 @@
  </div>
 <br/>
 
-[![coffee](https://user-images.githubusercontent.com/81063456/160665169-7d4ae351-ed39-4216-a071-d95232e8d88a.svg)](https://ko-fi.com/sakshikumari)
+[![coffee](https://user-images.githubusercontent.com/81063456/160665169-7d4ae351-ed39-4216-a071-d95232e8d88a.svg)](https://www.buymeacoffee.com/sakshikumari)
 
 
 <h3>&nbsp;Visit my portfolio </h3>
