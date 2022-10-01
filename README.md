@@ -1,6 +1,10 @@
 
 
-<div style="align="center";"><img align=""  width="40%" alt="banner" src="https://user-images.githubusercontent.com/83025741/192849332-58f52f03-2ef2-4afa-aad1-cab67500b85e.gif"/></div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sakshi00555/count.svg" />
+</p>
+
  <h2> Hey there! 👋 I'm Sakshi Kumari.</h2>
  <br/>
  
