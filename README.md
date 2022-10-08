@@ -89,10 +89,9 @@
 
 |  | |
 |:-:|:-:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Food&theme=radical)](https://github.com/AnshulKumarYadav/redubs)
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Online-Shopping-App-&theme=radical)](https://github.com/AnshulKumarYadav/online-shopping-app-)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=bobbibrown&theme=radical)](https://github.com/AnshulKumarYadav/bobbibrown)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Image-Library&theme=radical)](https://github.com/Sakshi00555/Image-Library)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=weatherApp&theme=radical)](https://github.com/Sakshi00555/Today-s-Weather)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=youtube&theme=radical)](https://github.com/AnshulKumarYadav/youtube)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Kimaye-website-clone&theme=radical)](https://github.com/Sakshi00555/Kimaye-website-clone)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rkarthik25&repo=Beewakoof-clone&theme=radical)](https://github.com/Rkarthik25/Beewakoof-clone)
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=My-Net-Diary-Website-Clone&theme=radical)](https://github.com/Sakshi00555/My-Net-Diary-Website-Clone)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Image-Library&theme=radical)](https://github.com/Sakshi00555/Image-Library)
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Today-s-Weather&theme=radical)](https://github.com/Sakshi00555/Today-s-Weather)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Foodies-App&theme=radical)](https://github.com/Sakshi00555/Foodies-App)|
 
 
 
