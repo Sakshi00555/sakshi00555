@@ -52,8 +52,8 @@ RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&m
  **Portfolio Website** | [![Portfolio](https://img.shields.io/static/v1?label=&message=sakshikumari.github.web&color=0A9CEA&logo=googlechrome&logoColor=FFFFFF)](https://sakshi00555.github.io/SakshiKumari/)
  **LinkedIn** | [![LinkedIn](https://img.shields.io/static/v1?label=&message=sakshi-kumari&color=16C8FC&logo=linkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sakshi-kumari-202282214/)
  **WhatsApp** | ![WhatsApp](https://img.shields.io/static/v1?label=&message=9560723667&color=25DE44&logo=whatsapp&logoColor=FFFFFF)
- **Instagram** | [![Instagram](https://img.shields.io/static/v1?label=&message=__sakshi_k__&color=F44CCE&logo=instagram&logoColor=FFFFFF)]
-(https://www.instagram.com/__sakshi_k__/)
+ **Instagram** | [![Instagram](https://img.shields.io/static/v1?label=&message=__sakshi_k__&color=F44CCE&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/__sakshi_k__/)
+  
  </p>
 </details>
 
