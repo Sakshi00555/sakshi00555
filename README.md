@@ -86,7 +86,21 @@ RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&m
   
   </details>
   
-  <a href="https://github.com/sakshi00555/github-readme-activity-graph"><img alt="Sakshi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakshi00555&bg_color=0D1117&color=5BCDEC&line=DB2B63&point=EBF51B&hide_border=true" /></a>
+  
+<a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake"  align="center"  /></a>
+<br/><br/>
+<p display="flex" align="center">
+
+  
+  
+  # 📊 GitHub Stats:
+<p align="left">
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshi00555&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi00555&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi00555&theme=default" align="center" />
+</p>
 
 
 <p align="left">Pinned Projects</p>
